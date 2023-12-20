@@ -2,15 +2,14 @@ export default function Home() {
   return (
     
 <main>
-      {/* <!-- component --> */}
+
 <nav className="bg-white shadow fixed w-full">
   <div className="container mx-auto px-6 py-3 md:flex md:justify-between md:items-center">
     <div className="flex justify-between items-center">
       <div>
-        <a className="text-gray-800 text-xl font-bold md:text-2xl hover:text-gray-700" href="#"> COVERLUXE</a>
+        <a className="text-gray-800 text-xl font-bold md:text-2xl hover:text-gray-700" href="#"> CASELUXE</a>
       </div>
 
-      {/* <!-- Mobile menu button --> */}
       <div className="flex md:hidden">
         <button type="button" className="text-gray-500 hover:text-gray-600 focus:outline-none focus:text-gray-600" aria-label="toggle menu">
           <svg viewBox="0 0 24 24" className="h-6 w-6 fill-current">
@@ -20,7 +19,6 @@ export default function Home() {
       </div>
     </div>
     
-    {/* <!-- Mobile Menu open: "block", Menu closed: "hidden" --> */}
     <div className="md:flex items-center first-letter:">
       <div className="flex flex-col md:flex-row md:mx-6 sty">
         <a className="my-1 text-sm text-gray-700 font-medium hover:text-indigo-500 md:mx-4 md:my-0" href="#">Home</a>
@@ -44,7 +42,7 @@ export default function Home() {
 
       <section className="bg-repeat bg-cover bg-[url('/image/jumbotron.png')]">
         <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
-          <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-700 lg:text-6xl"><span className="bg-white">COVER LUXE</span></h1>
+          <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-700 lg:text-6xl"><span className="bg-white">CASELUXE</span></h1>
            <p className="mb-8 text-lg font-bold text-gray-700 lg:text-3xl sm:px-16 lg:px-48"><span className="bg-white">Protect Your Style, Showcase Your Device: Find Your Perfect Phone Case Here!</span></p>
         </div>
       </section>
