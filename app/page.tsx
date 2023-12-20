@@ -20,7 +20,6 @@ export default function Home() {
       </div>
     </div>
     
-
     {/* <!-- Mobile Menu open: "block", Menu closed: "hidden" --> */}
     <div className="md:flex items-center first-letter:">
       <div className="flex flex-col md:flex-row md:mx-6 sty">
