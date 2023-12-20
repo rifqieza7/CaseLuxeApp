@@ -52,36 +52,36 @@ export default function Home() {
       </div>
 
       <div className="flex flex-row gap-10 mt-7 mb-10 p-10">
-        <div className="p-3 bg-white shadow-xl rounded-lg">
+        <div className="p-3 bg-white shadow-2xl rounded-lg">
           <div className="overflow-hidden">
-            <img src="/image/caseproduct.png" className="hover:scale-110 transition duration-500"/>
+            <img src="/image/caseblack.png" className="hover:scale-110 transition duration-500"/>
           </div>
           <div className="w-full text-center ">
-            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 12 Case</a></span>
+            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 15 Case Black</a></span>
           </div>
         </div>
-        <div className="p-3 bg-white shadow-xl rounded-lg">
+        <div className="p-3 bg-white shadow-2xl rounded-lg">
           <div className="overflow-hidden">
-            <img src="/image/caseproduct.png" className="hover:scale-110 transition duration-500"/>
+            <img src="/image/caseblue.png" className="hover:scale-110 transition duration-500"/>
           </div>
           <div className="w-full text-center ">
-            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 12 Case</a></span>
+            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 15 Case Blue</a></span>
           </div>
         </div>
-        <div className="p-3 bg-white shadow-xl rounded-lg">
+        <div className="p-3 bg-white shadow-2xl rounded-lg">
           <div className="overflow-hidden">
-            <img src="/image/caseproduct.png" className="hover:scale-110 transition duration-500"/>
+            <img src="/image/caseguava.png" className="hover:scale-110 transition duration-500"/>
           </div>
           <div className="w-full text-center ">
-            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 12 Case</a></span>
+            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 15 Case Guava</a></span>
           </div>
         </div>
-        <div className="p-3 bg-white shadow-xl rounded-lg">
+        <div className="p-3 bg-white shadow-2xl rounded-lg">
           <div className="overflow-hidden">
-            <img src="/image/caseproduct.png" className="hover:scale-110 transition duration-500"/>
+            <img src="/image/casetaupe.png" className="hover:scale-110 transition duration-500"/>
           </div>
           <div className="w-full text-center ">
-            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 12 Case</a></span>
+            <span className="font-semibold text-xl hover:underline"><a href="#">Iphone 15 Case Taupe</a></span>
           </div>
         </div>
       </div>
