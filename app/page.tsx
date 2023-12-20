@@ -91,25 +91,25 @@ export default function Home() {
       </div>
 
       <div className="flex flex-row gap-10 mt-7 mb-10 p-10">
-        <div className="p-3 bg-white shadow-xl rounded-lg">
+        <div className="p-3 bg-white shadow-2xl rounded-lg">
           <div className="overflow-hidden">
-            <img src="/image/ipadcase.png" className="hover:scale-110 transition duration-500"/>
+            <img src="/image/caseipadblack.png" className="hover:scale-110 transition duration-500"/>
           </div>
           <div className="w-full text-center ">
             <span className="font-semibold text-xl hover:underline"><a href="#">Ipad Case</a></span>
           </div>
         </div>
-        <div className="p-3 bg-white shadow-xl rounded-lg">
+        <div className="p-3 bg-white shadow-2xl rounded-lg">
           <div className="overflow-hidden">
-            <img src="/image/ipadcase.png" className="hover:scale-110 transition duration-500"/>
+            <img src="/image/caseipadpink.png" className="hover:scale-110 transition duration-500"/>
           </div>
           <div className="w-full text-center ">
             <span className="font-semibold text-xl hover:underline"><a href="#">Ipad Case</a></span>
           </div>
         </div>
-        <div className="p-3 bg-white shadow-xl rounded-lg">
+        <div className="p-3 bg-white shadow-2xl rounded-lg">
           <div className="overflow-hidden">
-            <img src="/image/ipadcase.png" className="hover:scale-110 transition duration-500"/>
+            <img src="/image/caseipadgreen.png" className="hover:scale-110 transition duration-500"/>
           </div>
           <div className="w-full text-center ">
             <span className="font-semibold text-xl hover:underline"><a href="#">Ipad Case</a></span>
